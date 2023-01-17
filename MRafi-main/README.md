@@ -1,16 +1,16 @@
-# Hi there, I'm Dimas - aka [DNZ XD](https://www.youtube.com/@dnzxd154) 👋
+# Hi there, I'm Rafi - aka [Azkhwlmn] 👋
 ## About me:
 - 🌱 I’m currently learning Python and Javascript
 - 👯 I’m looking to collaborate as Data Analyst and Data Entry
 - 🤔 I’m looking for suggest for Data Entry and Data Analyst
 - 💬 Ask me about anything
-- 📫 How to reach me: naufaldimas05@gmail.com
+- 📫 How to reach me: virarafi93@gmail.com@gmail.com
 
 ## Education:
 
 #### 1. [SMK AL-Hadiid 1 Cileungsi](http://alhadiid.mysch.id/) | Computer and Network Engineering (TKJ) | Cileungsi `2020-2023`
    - Chief of 12 Grade Class
- #### 2. [MTS Nurul Qur'an](https://www.nurul-quran.sch.id/) | Bogor `2018-2020`
+ #### 2. [SIT Al-Kautrsar](https://www.sitalkautsar.sch.id/) | Bogor `2011-2020`
    
 
 ## Work Experience:
